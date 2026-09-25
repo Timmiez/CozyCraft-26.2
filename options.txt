@@ -61,10 +61,10 @@ hideLightningFlashes:false
 hideSplashTexts:false
 mouseSensitivity:0.5
 damageTiltStrength:1.0
-highContrast:false
+highContrast:true
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:[]
+resourcePacks:["vanilla","file/Ginkgo Font.zip","file/Menu Fixes"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -87,12 +87,12 @@ notificationDisplayTime:1.0
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
-tutorialStep:movement
+tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 allowCursorChanges:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:false
 syncChunkWrites:true
@@ -103,7 +103,7 @@ sharePresence:"all"
 onlyShowSecureChat:false
 saveChatDrafts:false
 panoramaScrollSpeed:1.0
-telemetryOptInExtra:false
+telemetryOptInExtra:true
 onboardAccessibility:false
 menuBackgroundBlurriness:5
 startedCleanly:true
@@ -170,8 +170,8 @@ key_key.debug.profilingChart:key.keyboard.1
 key_key.debug.fpsCharts:key.keyboard.2
 key_key.debug.networkCharts:key.keyboard.3
 key_key.debug.lightmapTexture:key.keyboard.4
-soundCategory_master:0.152317880794702
-soundCategory_music:1.0
+soundCategory_master:0.7560706401766004
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
