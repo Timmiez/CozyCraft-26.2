@@ -12,10 +12,12 @@ config/iris.properties
 config/jei/
 
 # Ignore files that are just user-specific and not needed in version control
+usercache.json
 realms_persistence.json
 command_history.txt
 minecraftinstance.json
 saves/
 shaderpacks/
 screenshots/
+flashback
 notepad/

@@ -1,8 +1,5 @@
 type = customizablemenus
 
-net.minecraft.client.gui.screens.TitleScreen {
-}
-
 net.minecraft.client.gui.screens.PauseScreen {
 }
 
@@ -37,5 +34,11 @@ net.minecraft.client.gui.screens.ConnectScreen {
 }
 
 net.minecraft.client.gui.screens.ConfirmScreen {
+}
+
+com.moulberry.flashback.screen.select_replay.SelectReplayScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
 }
 
