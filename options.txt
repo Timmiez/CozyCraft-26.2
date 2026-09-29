@@ -64,8 +64,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/Menu Fixes","file/Ginkgo Font.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","file/Menu Fixes","file/Ginkgo Font.zip","file/FreshAnimations_v1.10.5.zip","file/FA+All_Extensions-v1.9.2.zip","file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"]
+incompatibleResourcePacks:["file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
