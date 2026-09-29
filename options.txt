@@ -176,6 +176,16 @@ key_key.ok_zoomer.zoom:key.keyboard.c
 key_key.ok_zoomer.decrease_zoom:key.keyboard.unknown
 key_key.ok_zoomer.increase_zoom:key.keyboard.unknown
 key_key.ok_zoomer.reset_zoom:key.keyboard.unknown
+key_key.unbound.toggle:key.keyboard.unknown
+key_key.unbound.freelook:key.keyboard.left.alt
+key_key.unbound.shoulder_swap:key.keyboard.o
+key_key.unbound.zoom_in:key.keyboard.unknown
+key_key.unbound.zoom_out:key.keyboard.unknown
+key_key.unbound.profile_cycle:key.keyboard.unknown
+key_key.unbound.camera_up:key.keyboard.unknown
+key_key.unbound.camera_down:key.keyboard.unknown
+key_key.unbound.camera_left:key.keyboard.unknown
+key_key.unbound.camera_right:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.i
